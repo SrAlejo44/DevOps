@@ -28,16 +28,16 @@ The CALMS framework is where we can see the DevOps culture in a more clear form.
    - Identify the restrictions and concerns.
    - Eliminate all the wast of our value flow.
 4. Measurement 📏
-  - LeadTime: When the ticket is created until it ends.
-  - Process time: When the ticket started until I finished it.
-  - Change Frequency: How frequent are the changes.
-  - Change Failure Rate: Failure rate.
-  - MTTR: Mean time to repair (How long it takes us to solve the problems).
+   - LeadTime: When the ticket is created until it ends.
+   - Process time: When the ticket started until I finished it.
+   - Change Frequency: How frequent are the changes.
+   - Change Failure Rate: Failure rate.
+   - MTTR: Mean time to repair (How long it takes us to solve the problems).
 5. Sharing 🗣
-  - Break down silos to share between different areas.
-  - Share knowledge
-  - Better practices
-  - Processes
+   - Break down silos to share between different areas.
+   - Share knowledge
+   - Better practices
+   - Processes
 
 ## DevOps Lifecycle
 
