@@ -6,6 +6,7 @@ There are a lot of definitions about what is DevOps, but for me and what I have 
 
 ## C.A.L.M.S. Framework
 The CALMS framework is where we can see the DevOps culture in a more clear form.
+
 1. Culture 📖
    - Responsability End to End.
    - Colaboration.
@@ -27,14 +28,20 @@ The CALMS framework is where we can see the DevOps culture in a more clear form.
    - Identify the restrictions and concerns.
    - Eliminate all the wast of our value flow.
 4. Measurement 📏
-	- LeadTime: When the ticket is created until it ends.
-	- Process time: When the ticket started until I finished it.
-	- Change Frequency: How frequent are the changes.
-	- Change Failure Rate: Failure rate.
-   - MTTR: Mean time to repair (How long it takes us to solve the problems).
+  - LeadTime: When the ticket is created until it ends.
+  - Process time: When the ticket started until I finished it.
+  - Change Frequency: How frequent are the changes.
+  - Change Failure Rate: Failure rate.
+  - MTTR: Mean time to repair (How long it takes us to solve the problems).
 5. Sharing 🗣
-	- Break down silos to share between different areas.
-	- Share knowledge
-	- Better practices
-   - Processes
+  - Break down silos to share between different areas.
+  - Share knowledge
+  - Better practices
+  - Processes
 
+## DevOps Lifecycle
+
+
+### Bibliography
+  - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
+  - https://www.simform.com/blog/devops-lifecycle/#section2
