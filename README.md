@@ -41,6 +41,8 @@ The CALMS framework is where we can see the DevOps culture in a more clear form.
 
 ## DevOps Lifecycle
 
+## GIT
+
 
 ### Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
