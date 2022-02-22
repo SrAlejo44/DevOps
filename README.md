@@ -55,7 +55,7 @@ In this phase of the DevOps lifecycle, software development is continuous and it
 ### 5. Release
   - Once the application passed all the functional and integration tests, you can create a version of the software. The objective is to indicate what has happened with all previous validations, these validations can be used by users in the future. This phase integrates with existing code and tests are performed.
 ### 6. Deploy
-  - Then when all the tests were made and passed you could do the deployment in the master branch.
+  - Then when all the tests were made and passed you could do the deployment in production.
 ### 7. Operate
   - The operations team takes control of the application in production. They must ensure that there are no unusual or inappropriate behaviors, errors that can be found in production. They must alert other members of the team about the problems that have occurred, make immediate decisions (suspend, rollback, etc.) and plan the necessary improvements before returning to production.
 ### 8. Monitor
