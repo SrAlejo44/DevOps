@@ -6,7 +6,8 @@ My name is David Alejandro, I’m preparing myself to be a DevOps engineer and s
 1. **[What is DevOps?](https://github.com/SrAlejo44/DevOps#what-is-devops)**
 2. **[C.A.L.M.S. Framework](https://github.com/SrAlejo44/DevOps#calms-framework)**
 3. **[DevOps Lifecycle](https://github.com/SrAlejo44/DevOps#devops-lifecycle)**
-4. **[Bibliography](https://github.com/SrAlejo44/DevOps#bibliography)**
+4. **[The three principles](https://github.com/SrAlejo44/DevOps#the-three-principles)**
+5. **[Bibliography](https://github.com/SrAlejo44/DevOps#bibliography)**
 
 ## What is DevOps?
 There are a lot of definitions about what is DevOps, but for me and what I have been researching it is a culture that starts with the objective to break the Wall between Developers and Operators but now DevOps is a methodology of work that we can use in all the product cycle to make faster and complete deployments, where we do guidelines to make a control about how we are progressing and where we can do better.
@@ -67,6 +68,15 @@ In this phase of the DevOps lifecycle, software development is continuous and it
   - The operations team takes control of the application in production. They must ensure that there are no unusual or inappropriate behaviors, errors that can be found in production. They must alert other members of the team about the problems that have occurred, make immediate decisions (suspend, rollback, etc.) and plan the necessary improvements before returning to production.
 ### 8. Monitor
   - In the last phase, you establish which are the parameters to monitor the application. We will collect all the information collected over a period of time to make necessary adjustments in the next planning phase. It is also in this phase that the operation team defines the measures to monitor and control the health status of the applications and their infrastructure.
+
+## The three principles
+These three principles are part of the culture of DevOps, they are made to remember how a DevOps Engineer should work and act in the team.
+
+ **1. Flow:** Optimize the value flow that we are delivering, try to reduce multitasking because one piece flow to deliver value and share the knowledge correctly.
+
+ **2. Feedback:** Failures are inevitable and inherent and you shuld use it to learn and share the new knowledge, fast bug detection and solve depent of how critical it is, reduce manuals inspections and approvals to make an agile work and quality is everyone's responsibility.
+
+ **3. Continuos learning:** Failures are inevitable and inherent and you should use them to learn and share the new knowledge, fast bug detection and solve depending on how critical it is, reduce manual inspections and approvals to agile work finally quality is everyone's responsibility.
 
 ## Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
