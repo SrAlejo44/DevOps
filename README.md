@@ -3,9 +3,10 @@ My name is David Alejandro, I’m preparing myself to be a DevOps engineer and s
 
 # Index
 
-1. **[What is DevOps?](https://github.com/SrAlejo44/DevOps/edit/main/README.md#what-is-devops)**
-2. **[C.A.L.M.S. Framework](https://github.com/SrAlejo44/DevOps/edit/main/README.md#calms-framework)**
-3. **[DevOps Lifecycle](https://github.com/SrAlejo44/DevOps/edit/main/README.md#devops-lifecycle)**
+1. **[What is DevOps?](https://github.com/SrAlejo44/DevOps#what-is-devops)**
+2. **[C.A.L.M.S. Framework](https://github.com/SrAlejo44/DevOps#calms-framework)**
+3. **[DevOps Lifecycle](https://github.com/SrAlejo44/DevOps#devops-lifecycle)**
+4. **[Bibliography](https://github.com/SrAlejo44/DevOps#bibliography)**
 
 ## What is DevOps?
 There are a lot of definitions about what is DevOps, but for me and what I have been researching it is a culture that starts with the objective to break the Wall between Developers and Operators but now DevOps is a methodology of work that we can use in all the product cycle to make faster and complete deployments, where we do guidelines to make a control about how we are progressing and where we can do better.
