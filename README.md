@@ -78,6 +78,10 @@ These three principles are part of the culture of DevOps, they are made to remem
 
 - **Continuos learning:** Failures are inevitable and inherent and you should use them to learn and share the new knowledge, fast bug detection and solve depending on how critical it is, reduce manual inspections and approvals to agile work finally quality is everyone's responsibility.
 
+## Version control systems
+
+
+
 ## Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
   - https://www.simform.com/blog/devops-lifecycle/#section2
