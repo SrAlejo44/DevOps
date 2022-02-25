@@ -78,10 +78,18 @@ These three principles are part of the culture of DevOps, they are made to remem
 
 - **Continuos learning:** Failures are inevitable and inherent and you should use them to learn and share the new knowledge, fast bug detection and solve depending on how critical it is, reduce manual inspections and approvals to agile work finally quality is everyone's responsibility.
 
-## Version control systems
+## Version control systems (VCS)
+The version control systems are tools to manage the versions of your project recording changes made to files by keeping a track of modifications done to the code, it works like a database that saves your progress and it allows you to see the changes version to version, it works with repositories and some of them like GIT and GIT HUB works with branches.
 
+### Types of VCS
+
+- **Local Version Control Systems:** 
+- **Centralized Version Control Systems:** 
+- **Distributed Version Control Systems:** 
 
 
 ## Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
   - https://www.simform.com/blog/devops-lifecycle/#section2
+  - https://www.geeksforgeeks.org/version-control-systems/
+  - https://serengetitech.com/tech/introduction-to-git-and-types-of-version-control-systems/#:~:text=A%20local%20version%20control%20system,file%20since%20its%20last%20version.
