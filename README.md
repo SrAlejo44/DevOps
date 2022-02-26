@@ -100,12 +100,25 @@ The version control systems are tools to manage the versions of your project rec
 - **pwd:** To know in which folder are you.
 - **clear:** To clear the console.
 - **mkdir (foldername):** To create a folder.
-- **touch (archivename):** To create an empty archive.
-- **cat:** To show quickly what are in one archive.
+- **touch (archivename):** To create an empty file.
+- **cat:** To show quickly what are in one file.
 - **history:** To see some all the history of your commands.
    - **!(number of the command):** To trigget the command in the list of history.
-- **rm:** To remove one archive or folder.
+- **rm:** To remove a file or folder.
 - **(command) --help:** To see some information about the command.
+
+#### Basic commands GIT
+
+- **git init:** To create a local repository in the folder that you are.
+- **git config --global user.name "(name)":** To config your name, it's important because git saves each change and you have to know which person did the change.
+- **git config --global user.email "(email)":** To config your email, it's important because git saves each change and you have to know which person did the change.
+- **git status:** To show the status of your repository, principally if there are some untracked files and in which branch you are.
+- **git add (filename):** Prepare the files to be committed (it´s in the cache).
+   - **git add .:** Add all files in the folder.
+- **git rm --cached:** Remove the files from the cache.
+- **git commit -m (comment):** To send the files in cache to the repository, it is important to send it with a commentary, **it is a good practice**.
+- **git log (filename):** Show the history of all commits in this file.
+
 
 ## Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
