@@ -87,6 +87,25 @@ The version control systems are tools to manage the versions of your project rec
 - **Centralized Version Control Systems:** 
 - **Distributed Version Control Systems:** 
 
+### GIT
+
+#### Basic commands Linux
+
+- **ls:** To show me the files in the carpet folder.
+   - **ls -al:** To list all the files even the hidden ones.
+- **cd:** To move between the folders.
+   - **cd:** To move to user folder.
+   - **cd /:** To move to home folder.
+   - **cd ..:** To go back to the previous folder.
+- **pwd:** To know in which folder are you.
+- **clear:** To clear the console.
+- **mkdir (foldername):** To create a folder.
+- **touch (archivename):** To create an empty archive.
+- **cat:** To show quickly what are in one archive.
+- **history:** To see some all the history of your commands.
+   - **!(number of the command):** To trigget the command in the list of history.
+- **rm:** To remove one archive or folder.
+- **(command) --help:** To see some information about the command.
 
 ## Bibliography
   - https://www.kranio.io/blog/introduccion-al-ciclo-de-vida-de-devops#:~:text=El%20ciclo%20de%20vida%20de,destino%20y%20ser%20una%20aplicaci%C3%B3n.
